@@ -6,7 +6,8 @@ namespace Órai_feladat_git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Type in a number: ");
+            int number = int.Parse(Console.ReadLine());
         }
     }
 }
