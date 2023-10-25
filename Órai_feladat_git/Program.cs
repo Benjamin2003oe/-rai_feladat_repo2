@@ -12,6 +12,10 @@ namespace Órai_feladat_git
             {
                 Console.WriteLine(number);
             }
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(number);
+            }
             Console.ReadLine();
         }
     }
